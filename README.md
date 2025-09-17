@@ -24,7 +24,7 @@ La aplicación "Amigo Secreto" es una herramienta web sencilla que permite a los
 
 1.  **Clona el repositorio**:
     ```bash
-    git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/tu_usuario/tu_repositorio.git)
+    git clone [https://github.com/blaken-ctrl/Challenge-Amigo-Secreto/tree/main](https://github.com/blaken-ctrl/Challenge-Amigo-Secreto/tree/main)
     ```
 2.  **Abre el archivo `index.html`**:
     Simplemente haz doble clic en el archivo `index.html` para abrir la aplicación en tu navegador.
